@@ -11,7 +11,7 @@ position = (0, 0)
 
 while True:
     location = locations[position]
-    print 'you are at the %s' % location
+    print you are at the %s % location
 
     valid_directions = {}
     for k, v in directions.iteritems():
